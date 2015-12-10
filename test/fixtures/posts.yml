@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  classification: MyString
+  permalink: MyString
+  post_data: 
+
+two:
+  classification: MyString
+  permalink: MyString
+  post_data: 
